@@ -21,3 +21,6 @@ Pobieramy baze polskich adresów ip ze strony http://www.nirsoft.net/countryip/p
 {"ipAddress":"217.30.144.0","countryCode":"PL","countryName":"POLAND","regionName":"DOLNOSLASKIE","cityName":"WROCLAW","latitude":"51.1","longitude":"17.0333","timeZone":"+01:00"},
 {"ipAddress":"217.67.192.0","countryCode":"PL","countryName":"POLAND","regionName":"MAZOWIECKIE","cityName":"WARSAW","latitude":"52.2298","longitude":"21.0118","timeZone":"+01:00"},
 ```
+
+
+Dane IP [dane.json](https://github.com/abudner/nosql/blob/master/dane.json)
